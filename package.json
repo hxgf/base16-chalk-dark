@@ -1,7 +1,7 @@
 {
   "name": "Base16-Chalk-Dark",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Port of the Base16 Clak Dark TextMate theme",
   "repository": "https://github.com/jyoungblood/base16-chalk-dark",
   "license": "MIT",
